@@ -145,6 +145,6 @@ void loop() {
 ## 📷 Project Images
 ![Prototype Model](https://github.com/sandesh-ar/sem-4-project-smart-street-light-system-using-IR-sensor-/blob/main/PROJECT%20MODEL%201.jpg?raw=true)  
 
-![Prototype Model](https://github.com/sandesh-ar/sem-4-project-smart-street-light-system-using-IR-sensor-/blob/main/BLOCK%20DIAGRAM%202.png?raw=true)
+![Prototype Model](https://github.com/sandesh-ar/sem-4-project-smart-street-light-system-using-IR-sensor-/blob/main/PROJECT%20MODEL%202.jpg?raw=true)
 
 ---
